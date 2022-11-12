@@ -1,3 +1,6 @@
+// Prinafsika
+// 21081010278
+
 #include <stdio.h>
 #include <stdlib.h>
 
